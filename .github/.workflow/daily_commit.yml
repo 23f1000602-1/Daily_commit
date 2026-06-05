@@ -19,7 +19,7 @@ jobs:
       - name: Configure Git
         run: |
           git config --global user.name "GitHub Action"
-          git config --global user.email "23f1000598@ds.study.iitm.ac.in"
+          git config --global user.email "23f1000602@ds.study.iitm.ac.in"
 
       - name: Make a Change
         run: |
